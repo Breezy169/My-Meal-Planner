@@ -1,0 +1,15 @@
+*.db
+db/*.db
+
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.env
+.vscode/
+.idea/
+
+build/
+dist/
+*.spec
