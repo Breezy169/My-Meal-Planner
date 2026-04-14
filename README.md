@@ -1,6 +1,6 @@
 # MyMealPlanner 🥗💪
 
-A lightweight, local desktop application built with Python and Tkinter to manage your daily nutrition, track fitness progress, and organize your weekly meal prep.
+A lightweight, local desktop application built with Gemini, Python and Tkinter to manage your daily nutrition, track fitness progress, and organize your weekly meal prep.
 
 ## ✨ Features
 
@@ -45,6 +45,10 @@ A lightweight, local desktop application built with Python and Tkinter to manage
 
 ### 🔒 Privacy & Data
 This is the Vanilla Version. The repository includes the source code and the database structure, but none of my personal data. When you run the app, a fresh profile is generated for you.
+
+
+## 🤖 Acknowledgments
+This project was developed with the creative and technical support of **Gemini**, an AI collaborator by Google. From architecting the database logic to refining the UI styling and solving deployment hurdles, Gemini was part of the journey.
 
 📝 License
 
