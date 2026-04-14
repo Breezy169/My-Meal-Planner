@@ -29,14 +29,13 @@ A lightweight, local desktop application built with Python and Tkinter to manage
 
     Note: On the first start, the app will automatically create the necessary database files in a /db folder.
 
-🛠️ Built With
+###🛠️ Built With
     Python - Core logic
     Tkinter - Graphical User Interface
     SQLite3 - Local database management
 
-📦 Creating an Executable (.exe)
-
-If you want to create a standalone application for Windows:
+###📦 Creating an Executable (.exe)
+    If you want to create a standalone application for Windows:
     1. Install PyInstaller: pip install pyinstaller
     2. Build the app:
         pyinstaller --noconsole --onefile App.py
