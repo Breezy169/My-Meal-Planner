@@ -53,5 +53,5 @@ This is the Vanilla Version. The repository includes the source code and the dat
 ### 🤖 Acknowledgments
 This project was developed with the creative and technical support of **Gemini**, an AI collaborator by Google. From architecting the database logic to refining the UI styling and solving deployment hurdles, Gemini was part of the journey.
 
-📝 License
+### 📝 License
 This project is open-source and free to use.
