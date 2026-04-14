@@ -21,11 +21,6 @@ A lightweight, local desktop application built with Python and Tkinter to manage
 
 1. **Clone the repository:**
 
-   ```bash
-   git clone [https://github.com/Breezy169/My-Meal-Planner.git]
-   or
-   git clone (git@github.com:Breezy169/My-Meal-Planner.git)
-
 2. Run the application:
 
     Directly start the app using Python:
