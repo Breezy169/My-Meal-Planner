@@ -13,6 +13,10 @@ A lightweight, local desktop application built with Gemini, Python and Tkinter t
 
 ## 🚀 Getting Started
 
+### For End-Users (Standalone App)
+If you just want to use the app without installing Python, please refer to the **Creating an Executable** section below to build your own `.exe`, or download the latest release (if provided).
+
+## For Developers (Running from Source)
 ### Prerequisites
 
 - Python 3.x installed on your system.
